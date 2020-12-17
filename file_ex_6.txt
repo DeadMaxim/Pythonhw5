@@ -1,0 +1,4 @@
+Informatics: 30 20 5
+Physics: 30 20 0
+biology: 0 40 0
+Chemistry: 0 30 10
